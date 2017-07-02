@@ -13,8 +13,6 @@ Step Three: When the song "Take a Break" plays, take a brake for the duration of
 
 Step Four: Go back to work after the song is over.
 
-Step Five: Repeat steps Three and Four 2 more times. After which, the program ends and you have to start it again or stop working.
-
-
+Step Five: Repeat steps Three and Four 2 more times. After which, the program ends and you have to start it again.
 
 Code can be modified for personal prefernce.
