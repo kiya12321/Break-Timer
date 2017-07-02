@@ -1,0 +1,11 @@
+import time
+import webbrowser
+
+total_brakes = 3
+brake_count = 0
+
+print("This program started on " + time.ctime())
+while (brake_count < total_brakes):
+    time.sleep(2 * 60 * 60)
+    webbrowser.open("https://www.youtube.com/watch?v=RZCkko_t_rs")
+    brake_count = brake_count + 1
